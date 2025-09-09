@@ -57,7 +57,45 @@ footer {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-.filial:hover {
+.Artistas:hover {
     transform: scale(1.05);
     box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+}
+.aura-form {
+    max-width: 400px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: left;
+}
+
+.aura-form label {
+    font-weight: bold;
+    color: #0d47a1;
+}
+
+.aura-form input,
+.aura-form textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1em;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.aura-form button {
+    background: #0d47a1;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.aura-form button:hover {
+    background: #1976d2;
 }
