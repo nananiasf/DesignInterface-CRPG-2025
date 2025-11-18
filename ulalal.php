@@ -20,6 +20,10 @@
             <a href="aura.html">Compartilhe sua opinião</a>
             <a href="planilhas.html" aria-current="page">Planilha</a>
         </nav>
+        <div id="tema-toggle" class="tema-toggle">
+  <div class="bolinha"></div>
+</div>
+
     </header>
 
     <!-- Conteúdo principal -->
