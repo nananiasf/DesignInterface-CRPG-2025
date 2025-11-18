@@ -18,6 +18,7 @@
             <a href="carros.html">Carros</a>
             <a href="ego.html">Artistas</a>
             <a href="aura.html">Compartilhe sua opinião</a>
+            <a href="planilhas.html" aria-current="page">Planilha</a>
         </nav>
     </header>
 
